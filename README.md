@@ -1,6 +1,6 @@
 # FilelessRemotePE
 Loading Fileless Remote PE from URI to memory with argument passing  and ETW patching and NTDLL unhooking and No New Thread technique  
-It runs only c/c++/asm based binaries , if you want to run .NET based binaries use my other project : https://github.com/D1rkMtr/ExecRemoteAssembly  
+It runs only c/c++/asm based binaries. 
 
 ![ThisFileLess](https://user-images.githubusercontent.com/110354855/191484108-e248a597-e5d9-4a21-8842-5e4e8df2c41d.png)
 
@@ -21,3 +21,6 @@ https:/[IPv4]:[port]/PathToPE  also works
 ![image](https://user-images.githubusercontent.com/110354855/191821373-442b5a50-f34e-4801-9cb4-93dd3fe8e8a3.png)
 
 
+All credit goes to D1rkMtr   
+https://github.com/D1rkMtr/ExecRemoteAssembly    
+However this repo has been removed.
